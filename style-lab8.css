@@ -10,7 +10,7 @@
 }
 
 .animated {
-  //transition-property: background;
+  /* transition-property: background; */
   transition-duration: 1s;
   transition-timing-function: linear;
 }
@@ -20,11 +20,11 @@
 }
 
 .crazy {
-  //transition: transform 3s 1s, background 1s 1s;
+  /* transition: transform 3s 1s, background 1s 1s; */
 }
 
 .crazy:hover {
-  //transform: rotate(720deg) scale(0.5);
+  /* transform: rotate(720deg) scale(0.5); */
   background: #e67e22;
   border-radius: 100px;
 }
